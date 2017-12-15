@@ -1,0 +1,33 @@
+{
+  "word": [
+    {
+      "id": "1",
+      "value": "开",
+      "pinyin": "kai",
+      "synonyms": "打开,播放",
+      "command": "ON",
+      "wordsId": "2"
+    },
+    {
+      "id": "2",
+      "value": "一楼",
+      "pinyin": "yilou",
+      "synonyms": "首层,第一层",
+      "command": "",
+      "wordsId": "1"
+    },
+    {
+      "id": "3",
+      "value": "关",
+      "pinyin": "guan",
+      "synonyms": "停止,关闭",
+      "command": "OFF",
+      "wordsId": "2"
+    }
+  ]
+}
+
+
+
+
+
